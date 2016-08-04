@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'monomusic';
+    src: local('monomusic'),
+         url('MonoMusic-Regular.woff2') format('woff2'),
+         url('MonoMusic-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
